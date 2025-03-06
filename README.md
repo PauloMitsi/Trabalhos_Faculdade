@@ -1,6 +1,7 @@
 # Códigos Desenvolvidos Durante a Faculdade
 
 Este repositório contém os códigos desenvolvidos durante o meu período na faculdade. Aqui você encontrará uma coleção de projetos, exercícios e implementações que foram criados ao longo do curso.
+@
 ## Conteúdo
 
 -   **Estruturas de Dados:** Implementações de listas, pilhas, filas, árvores e grafos.
