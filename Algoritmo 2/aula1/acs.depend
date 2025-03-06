@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1654538099 source:c:\users\asdfghjk\desktop\acs\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
