@@ -1,0 +1,14 @@
+section {
+  background-color: lightgray;
+}
+
+.titulo {
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightblue;
+}
+
+#link:hover {
+    color: red;
+    font-style: italic;
+}
